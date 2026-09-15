@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "kans811.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "kans811.github",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "Тестовое веб-приложение OC-System"
+}
